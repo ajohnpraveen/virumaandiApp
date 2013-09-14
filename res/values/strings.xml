@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Virumaandi</string>
+	<string name="no_results">No results found</string>
+	<string name="magic">Do the trick</string>
+	<string name="loading">Loading&#8230;</string>
+	<string name="smthng_wrong">Oops! Something went wrong </string>
+	<string name="enter_postal_code">Give me a postal code or whatever</string>
+	<string name="no_postal_code">What do u expect me do, Magic!?. Always read before u click on something.</string>
+
+</resources>
